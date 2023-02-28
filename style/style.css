@@ -330,10 +330,10 @@ h2 {
   left: 0;
   bottom: 0;
   opacity: 0; }
-  .skip-intro .timeline, .skip-intro a {
+  .skip-intro .timeline, .skip-intro .line-link {
     position: absolute;
     bottom: 0; }
-  .skip-intro a {
+  .skip-intro .line-link {
     bottom: 25px;
     left: 50%;
     -webkit-transform: translateX(-50%);

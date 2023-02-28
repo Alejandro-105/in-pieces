@@ -400,7 +400,7 @@ h2 {
 		bottom: 0;
 	}
 
-	a {
+	.line-link {
 		bottom: 25px;
 		left: 50%;
 		@include transform(translateX(-50%));
